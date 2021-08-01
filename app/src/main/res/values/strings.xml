@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week4 RecyclerView Assignment</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+    <string name="item1">item1</string>
+    <string name="item2">item2</string>
+    <string name="item3">item3</string>
+</resources>
